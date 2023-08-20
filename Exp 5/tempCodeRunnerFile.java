@@ -1,0 +1,2 @@
+
+mn=new Menu("File");
