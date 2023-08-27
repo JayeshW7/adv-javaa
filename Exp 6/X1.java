@@ -43,6 +43,7 @@ r3.add(c14);
 r1.add(r2);
 r1.add(r3);
 JTree t=new JTree(r1);
+
 f.add(t);
 }
 }
