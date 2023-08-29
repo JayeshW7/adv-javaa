@@ -7,7 +7,7 @@ public static void main(String args[])
 {
 JFrame f=new JFrame();
 f.setSize(500,500);
-f.setTitle("Sanika Lad_79");
+f.setTitle("Jayesh Wagh");
 f.setVisible(true);
 DefaultMutableTreeNode r1=new DefaultMutableTreeNode("INDIA");
 DefaultMutableTreeNode r2=new DefaultMutableTreeNode("STATES");

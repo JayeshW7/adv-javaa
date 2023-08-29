@@ -25,6 +25,6 @@ class X1 extends JFrame implements ActionListener {
     }
 
     public static void main(String[] args) {
-        new X1("Sanika Lad_79");
+        new X1("Jayesh Wagh");
     }
 }
