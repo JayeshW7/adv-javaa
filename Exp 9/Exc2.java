@@ -45,7 +45,7 @@ class Exc2 extends JFrame implements ActionListener
     {
         Exc2 m = new Exc2();
         m.setSize(500, 500);
-        m.setTitle("Sanika Lad_79");
+        m.setTitle("Jayesh Wagh");
         m.setVisible(true);
     }
 }

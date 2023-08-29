@@ -5,7 +5,7 @@ class Exc2 extends JFrame
     JComboBox<String> jc;
     JScrollPane sp;
     String[] 
-    java={"Fields","Methods","Constructors","Blocks", "Polymorphism", "Inheritance", "Encapsulation", "Abstraction", "Swing" , "AWT", "Applet"};
+    java={"AI & ML","Python","C++","Flutter", "JS", "React", "C", "Ruby", "Assembly" , "Adv Java", "C#"};
     Exc2(String s)
     {
         super(s);
