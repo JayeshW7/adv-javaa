@@ -3,7 +3,7 @@ import java.awt.event.*;
 public class Exc3 extends MouseMotionAdapter{ 
 Frame f; 
 public Exc3(){ 
-f=new Frame("Sanika Lad_79"); 
+f=new Frame("Jayesh Wagh"); 
 f.setVisible(true); 
 f.setSize(500,500); 
 f.setLayout(null); 
