@@ -1,2 +1,2 @@
 
-mn=new Menu("File");
+        mb=new MenuBar();
