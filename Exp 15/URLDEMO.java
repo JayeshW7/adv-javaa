@@ -1,4 +1,5 @@
 import java.net.*;
+@SuppressWarnings("deprecation")
 
 class URLDEMO {
     public static void main(String[] args) {
